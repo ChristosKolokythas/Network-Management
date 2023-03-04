@@ -36,7 +36,7 @@ using py sta.setPosition().
 # Smart Evacuation
 For a detailed presentation of the mockups you can open the pdf file and find the Smart Evacuation section
 
-# THINGSBOARD
+# Thingsboard
 ### Description of the operation
 For the external scenario in which we are located in the University City
 we created 7 assets which represent the antennas and 7 devices which

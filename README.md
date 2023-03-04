@@ -18,7 +18,8 @@ For the indoor network we used 4 access points, 1 switch and 1 host. Here
 we used 1 station representing a user who is located in the space of the
 office.
 
-###Fault Management
+### Fault Management
+
 The term "Fault Management" describes the
 sequence of our operations to detect, isolate and repair
 problems in a network. For Fault Management on the networks we created,
